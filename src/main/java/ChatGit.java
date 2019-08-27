@@ -9,6 +9,7 @@ public class ChatGit {
 
         System.out.println();
         System.out.println("1");
+        System.out.println("2");
 
     }
 }
