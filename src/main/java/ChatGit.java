@@ -10,6 +10,7 @@ public class ChatGit {
         System.out.println();
         System.out.println("1");
         System.out.println("2");
+        System.out.println("本地未进行更新操作，就进行提交项目操作");
 
     }
 }
