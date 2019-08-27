@@ -13,6 +13,7 @@ public class ChatGit {
         System.out.println("本地未进行更新操作，就进行提交项目操作");
         System.out.println("本地未进行更新操作");
         System.out.println("必须先进性更新，在进行提交");
+        System.out.println("还原操作");
         
 
     }
